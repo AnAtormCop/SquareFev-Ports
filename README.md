@@ -1,2 +1,3 @@
 # SquareFev-Ports
-Just a regular port guy
+A repository to the port rom.
+
