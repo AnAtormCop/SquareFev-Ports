@@ -1,3 +1,2 @@
 # SquareFev-Ports
-A repository to the port rom.
-
+Github Repository that contains partition for X6525
